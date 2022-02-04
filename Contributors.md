@@ -66,7 +66,8 @@
 - [Martins Anerua](https://github.com/anerua)
 - [Ian Dennis](https://github.com/ind9-nau)
 - [Hafizul Haque](https://github.com/HafizulHaque)
-- [Nihal Jain](https://github.com/NihalJain)
+-[Ethan Anderson]
+-  [Nihal Jain](https://github.com/NihalJain)
 - [Udayan Kulkarni](https://github.com/Udayan853)
 - [Tomasz Stanisz (DevThomas)](https://github.com/Fremen1990)
 - [Eric Matelyan](https://github.com/samurainstein)
